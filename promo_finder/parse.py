@@ -137,6 +137,6 @@ def parse_episode(path: Path) -> Episode:
 def load_show(folder: str | Path) -> list[Episode]:
     folder = Path(folder)
     files = sorted(p for p in folder.rglob("*.txt") if not p.name.startswith("."))
-    eps = [parse_episode(p) for p in files]
+    eps = [e for e in (parse_episode(p) for p in files) if e.events]   # skip non-screenplay .txt (README, requirements)
     eps.sort(key=lambda e: e.number)
     return eps
