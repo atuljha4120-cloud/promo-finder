@@ -1,0 +1,82 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A synthetic demo episode (not Kuku content) used to test the tool. A bride is framed for theft at her own wedding.
+CONTINUITY NOTES: Demo only.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CHAPEL – DAY
+Scene start: 00:00.00
+Scene end: 00:40.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Close-up on Mara's hand as the groom's mother slaps the bouquet from it.
+
+**ACTION:**
+Start: (00:00.20) | End: (00:02.50)
+The mother slaps Mara hard across the face; the bouquet hits the floor.
+
+**MOTHER (Furious, Venomous):**
+Start: (00:01.00) | End: (00:03.00)
+"You thief! You stole my diamond!"
+
+**CAMERA:**
+Start: (00:03.00) | End: (00:08.00)
+Medium shot of Mara clutching her cheek, guests gasping behind her.
+
+**MARA (Shocked, Desperate):**
+Start: (00:03.50) | End: (00:07.50)
+"I never touched it! Daniel, tell her!"
+
+**CAMERA:**
+Start: (00:08.00) | End: (00:14.00)
+Close-up on Daniel, the groom, avoiding her eyes.
+
+**DANIEL (Cold, Dismissive):**
+Start: (00:08.50) | End: (00:13.50)
+"Mother found it in your bag, Mara. I cannot marry a liar."
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:20.00)
+Two-shot of Mara and the mother, guards stepping in from the doors.
+
+**MOTHER (Cruel, Gloating):**
+Start: (00:14.50) | End: (00:19.50)
+"Guards! Take this girl to the constable. Let her rot in a cell."
+
+**CAMERA:**
+Start: (00:20.00) | End: (00:27.00)
+Guards seize Mara by both arms as she struggles.
+
+**ACTION:**
+Start: (00:20.20) | End: (00:26.50)
+Guards seize Mara and drag her down the aisle.
+
+**MARA (Screaming, Defiant):**
+Start: (00:21.00) | End: (00:26.00)
+"You planted it! You will regret this, all of you!"
+
+**CAMERA:**
+Start: (00:27.00) | End: (00:34.00)
+Wide shot of the chapel doors bursting open.
+
+**ACTION:**
+Start: (00:27.50) | End: (00:33.50)
+A stranger in a black coat bursts in and the guards freeze.
+
+**STRANGER (Low, Menacing):**
+Start: (00:28.00) | End: (00:33.00)
+"Let go of my wife."
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:40.00)
+Close-up on the mother's face as it drains of colour. Cut to black.
+
+**SOUND FX:**
+Start: (00:34.00) | End: (00:40.00)
+Ominous low drone swells to a cliffhanger sting.
+
+--- SCRIPT END ---
